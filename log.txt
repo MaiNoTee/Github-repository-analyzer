@@ -1,0 +1,741 @@
+0; https://github.com/996icu/996.ICU.git; test_rust.rs; 19
+Repository funcs: 19
+Global count funcs: 19
+1; https://github.com/denoland/deno.git; test_server.rs; 3482
+Repository funcs: 3482
+Global count funcs: 3501
+2; https://github.com/rust-lang/rust.git; main.rs; 92202
+Repository funcs: 92202
+Global count funcs: 95703
+3; https://github.com/alacritty/alacritty.git; ref.rs; 1321
+Repository funcs: 1321
+Global count funcs: 97024
+4; https://github.com/sharkdp/bat.git; mod.rs; 406
+Repository funcs: 406
+Global count funcs: 97430
+5; https://github.com/BurntSushi/ripgrep.git; util.rs; 1909
+Repository funcs: 1909
+Global count funcs: 99339
+6; https://github.com/tauri-apps/tauri.git; webdriver.rs; 1419
+Repository funcs: 1419
+Global count funcs: 100758
+7; https://github.com/rust-unofficial/awesome-rust.git; hacktoberfest.rs; 18
+Repository funcs: 18
+Global count funcs: 100776
+8; https://github.com/rust-lang/rustlings.git; testSuccess.rs; 313
+Repository funcs: 313
+Global count funcs: 101089
+9; https://github.com/starship/starship.git; lib.rs; 1364
+Repository funcs: 1364
+Global count funcs: 102453
+10; https://github.com/meilisearch/MeiliSearch.git; mod.rs; 637
+Repository funcs: 637
+Global count funcs: 103090
+11; https://github.com/sharkdp/fd.git; mod.rs; 207
+Repository funcs: 207
+Global count funcs: 103297
+12; https://github.com/xi-editor/xi-editor.git; linebreaktest.rs; 2062
+Repository funcs: 2062
+Global count funcs: 105359
+13; https://github.com/swc-project/swc.git; lib.rs; 7641
+Repository funcs: 7641
+Global count funcs: 113000
+14; https://github.com/yewstack/yew.git; lib.rs; 1611
+Repository funcs: 1611
+Global count funcs: 114611
+15; https://github.com/rome/tools.git; mod.rs; 3922
+Repository funcs: 3922
+Global count funcs: 118533
+16; https://github.com/firecracker-microvm/firecracker.git; demo_panic.rs; 2891
+Repository funcs: 2891
+Global count funcs: 121424
+17; https://github.com/nushell/nushell.git; mod.rs; 6276
+Repository funcs: 6276
+Global count funcs: 127700
+18; https://github.com/diem/diem.git; vm_validator_test.rs; 19688
+Repository funcs: 19688
+Global count funcs: 147388
+19; https://github.com/facebook/relay.git; tests.rs; 4255
+Repository funcs: 4255
+Global count funcs: 151643
+20; https://github.com/SergioBenitez/Rocket.git; lib.rs; 3407
+Repository funcs: 3407
+Global count funcs: 155050
+21; https://github.com/ogham/exa.git; ui_styles.rs; 561
+Repository funcs: 561
+Global count funcs: 155611
+22; https://github.com/tokio-rs/tokio.git; _require_full.rs; 5468
+Repository funcs: 5468
+Global count funcs: 161079
+23; https://github.com/rustdesk/rustdesk.git; remote.rs; 1197
+Repository funcs: 1197
+Global count funcs: 162276
+24; https://github.com/copy/v86.git; wasm_opcodes.rs; 4527
+Repository funcs: 4527
+Global count funcs: 166803
+25; https://github.com/actix/actix-web.git; test_weird_poll.rs; 3076
+Repository funcs: 3076
+Global count funcs: 169879
+26; https://github.com/valeriansaliou/sonic.git; shutdown.rs; 328
+Repository funcs: 328
+Global count funcs: 170207
+27; https://github.com/dani-garcia/vaultwarden.git; schema.rs; 797
+Repository funcs: 797
+Global count funcs: 171004
+28; https://github.com/iced-rs/iced.git; windows.rs; 1873
+Repository funcs: 1873
+Global count funcs: 172877
+29; https://github.com/bevyengine/bevy.git; main.rs; 5228
+Repository funcs: 5228
+Global count funcs: 178105
+30; https://github.com/cube-js/cube.js.git; state.rs; 2234
+Repository funcs: 2234
+Global count funcs: 180339
+31; https://github.com/dandavison/delta.git; terminal.rs; 822
+Repository funcs: 822
+Global count funcs: 181161
+32; https://github.com/Rigellute/spotify-tui.git; util.rs; 367
+Repository funcs: 367
+Global count funcs: 181528
+33; https://github.com/wasmerio/wasmer.git; writing.rs; 4868
+Repository funcs: 4868
+Global count funcs: 186396
+34; https://github.com/tikv/tikv.git; test_titan.rs; 13887
+Repository funcs: 13887
+Global count funcs: 200283
+35; https://github.com/RustPython/RustPython.git; wasm_builtins.rs; 5758
+Repository funcs: 5758
+Global count funcs: 206041
+36; https://github.com/denisidoro/navi.git; tests.rs; 161
+Repository funcs: 161
+Global count funcs: 206202
+37; https://github.com/AppFlowy-IO/appflowy.git; msg.rs; 4698
+Repository funcs: 4698
+Global count funcs: 210900
+38; https://github.com/sharkdp/hyperfine.git; integration_tests.rs; 161
+Repository funcs: 161
+Global count funcs: 211061
+39; https://github.com/analysis-tools-dev/static-analysis.git; main.rs; 15
+Repository funcs: 15
+Global count funcs: 211076
+40; https://github.com/uutils/coreutils.git; mod.rs; 5553
+Repository funcs: 5553
+Global count funcs: 216629
+41; https://github.com/ruffle-rs/ruffle.git; ui.rs; 6459
+Repository funcs: 6459
+Global count funcs: 223088
+42; https://github.com/hyperium/hyper.git; mod.rs; 1559
+Repository funcs: 1559
+Global count funcs: 224647
+43; https://github.com/atom-archive/xray.git; lib.rs; 1433
+Repository funcs: 1433
+Global count funcs: 226080
+44; https://github.com/vectordotdev/vector.git; mod.rs; 10488
+Repository funcs: 10488
+Global count funcs: 236568
+45; https://github.com/rust-lang/book.git; remove_markup.rs; 1182
+Repository funcs: 1182
+Global count funcs: 237750
+46; https://github.com/rust-lang/mdBook.git; partially-included-test.rs; 503
+Repository funcs: 503
+Global count funcs: 238253
+47; https://github.com/rust-analyzer/rust-analyzer.git; changelog.rs; 20141
+Repository funcs: 20141
+Global count funcs: 258394
+48; https://github.com/BurntSushi/xsv.git; workdir.rs; 363
+Repository funcs: 363
+Global count funcs: 258757
+49; https://github.com/getzola/zola.git; serve.rs; 858
+Repository funcs: 858
+Global count funcs: 259615
+50; https://github.com/benfred/py-spy.git; integration_test.rs; 743
+Repository funcs: 743
+Global count funcs: 260358
+51; https://github.com/amethyst/amethyst.git; state_event.rs; 2324
+Repository funcs: 2324
+Global count funcs: 262682
+52; https://github.com/diesel-rs/diesel.git; write_post.rs; 3605
+Repository funcs: 3605
+Global count funcs: 266287
+53; https://github.com/rust-lang/cargo.git; lib.rs; 7701
+Repository funcs: 7701
+Global count funcs: 273988
+54; https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials.git; boot.rs; 1874
+Repository funcs: 1874
+Global count funcs: 275862
+55; https://github.com/clap-rs/clap.git; yaml.rs; 2316
+Repository funcs: 2316
+Global count funcs: 278178
+56; https://github.com/pingcap/talent-plan.git; thread_pool.rs; 639
+Repository funcs: 639
+Global count funcs: 278817
+57; https://github.com/tree-sitter/tree-sitter.git; lib.rs; 1036
+Repository funcs: 1036
+Global count funcs: 279853
+58; https://github.com/actix/actix.git; test_macro.rs; 655
+Repository funcs: 655
+Global count funcs: 280508
+59; https://github.com/imsnif/bandwhich.git; mod.rs; 201
+Repository funcs: 201
+Global count funcs: 280709
+60; https://github.com/rust-lang/rust-clippy.git; eq_op.rs; 6422
+Repository funcs: 6422
+Global count funcs: 287131
+61; https://github.com/citybound/citybound.git; mod.rs; 1526
+Repository funcs: 1526
+Global count funcs: 288657
+62; https://github.com/Peltoche/lsd.git; integration.rs; 536
+Repository funcs: 536
+Global count funcs: 289193
+63; https://github.com/extrawurst/gitui.git; syntax_text.rs; 1558
+Repository funcs: 1558
+Global count funcs: 290751
+64; https://github.com/openethereum/parity-ethereum.git; lib.rs; 10633
+Repository funcs: 10633
+Global count funcs: 301384
+65; https://github.com/a-b-street/abstreet.git; main.rs; 4502
+Repository funcs: 4502
+Global count funcs: 305886
+66; https://github.com/sharkdp/hexyl.git; integration_tests.rs; 72
+Repository funcs: 72
+Global count funcs: 305958
+67; https://github.com/Canop/broot.git; verb_store.rs; 922
+Repository funcs: 922
+Global count funcs: 306880
+68; https://github.com/bytecodealliance/wasmtime.git; translate.rs; 9597
+Repository funcs: 9597
+Global count funcs: 316477
+69; https://github.com/paritytech/substrate.git; wasm_project.rs; 17364
+Repository funcs: 17364
+Global count funcs: 333841
+70; https://github.com/neon-bindings/neon.git; example_compile_error.rs; 1002
+Repository funcs: 1002
+Global count funcs: 334843
+71; https://github.com/jpochyla/psst.git; metadata.rs; 1099
+Repository funcs: 1099
+Global count funcs: 335942
+72; https://github.com/iron/iron.git; url_for.rs; 296
+Repository funcs: 296
+Global count funcs: 336238
+73; https://github.com/fdehau/tui-rs.git; widgets_tabs.rs; 550
+Repository funcs: 550
+Global count funcs: 336788
+74; https://github.com/bottlerocket-os/bottlerocket.git; lib.rs; 1556
+Repository funcs: 1556
+Global count funcs: 338344
+75; https://github.com/Geal/nom.git; reborrow_fold.rs; 1227
+Repository funcs: 1227
+Global count funcs: 339571
+76; https://github.com/microsoft/windows-rs.git; mod.rs; 344774
+Repository funcs: 344774
+Global count funcs: 684345
+77; https://github.com/rayon-rs/rayon.git; str.rs; 2365
+Repository funcs: 2365
+Global count funcs: 686710
+78; https://github.com/solana-labs/solana.git; lib.rs; 10197
+Repository funcs: 10197
+Global count funcs: 696907
+79; https://github.com/XAMPPRocky/tokei.git; rust.rs; 186
+Repository funcs: 186
+Global count funcs: 697093
+80; https://github.com/emilk/egui.git; lib.rs; 2818
+Repository funcs: 2818
+Global count funcs: 699911
+81; https://github.com/LemmyNet/lemmy.git; scheduled_tasks.rs; 978
+Repository funcs: 978
+Global count funcs: 700889
+82; https://github.com/Spotifyd/spotifyd.git; utils.rs; 62
+Repository funcs: 62
+Global count funcs: 700951
+83; https://github.com/seanmonstar/warp.git; ws.rs; 723
+Repository funcs: 723
+Global count funcs: 701674
+84; https://github.com/quickwit-inc/tantivy.git; mod.rs; 2985
+Repository funcs: 2985
+Global count funcs: 704659
+85; https://github.com/neovide/neovide.git; renderer.rs; 386
+Repository funcs: 386
+Global count funcs: 705045
+86; https://github.com/Schniz/fnm.git; write_file.rs; 258
+Repository funcs: 258
+Global count funcs: 705303
+88; https://github.com/timvisee/ffsend.git; mod.rs; 281
+Repository funcs: 281
+Global count funcs: 705584
+89; https://github.com/cloudflare/quiche.git; httpbin_tests.rs; 1448
+Repository funcs: 1448
+Global count funcs: 707032
+90; https://github.com/orf/gping.git; windows.rs; 41
+Repository funcs: 41
+Global count funcs: 707073
+91; https://github.com/spacejam/sled.git; mod.rs; 1358
+Repository funcs: 1358
+Global count funcs: 708431
+92; https://github.com/qarmin/czkawka.git; tests.rs; 421
+Repository funcs: 421
+Global count funcs: 708852
+93; https://github.com/mgdm/htmlq.git; pretty_print.rs; 20
+Repository funcs: 20
+Global count funcs: 708872
+94; https://github.com/svenstaro/genact.git; weblog.rs; 91
+Repository funcs: 91
+Global count funcs: 708963
+95; https://github.com/RustScan/RustScan.git; timelimits.rs; 88
+Repository funcs: 88
+Global count funcs: 709051
+96; https://github.com/gfx-rs/gfx.git; reftest.rs; 2536
+Repository funcs: 2536
+Global count funcs: 711587
+97; https://github.com/huggingface/tokenizers.git; mod.rs; 1487
+Repository funcs: 1487
+Global count funcs: 713074
+98; https://github.com/PyO3/pyo3.git; wrong_aspyref_lifetimes.rs; 3863
+Repository funcs: 3863
+Global count funcs: 716937
+99; https://github.com/launchbadge/sqlx.git; expression-column-type.rs; 2382
+Repository funcs: 2382
+Global count funcs: 719319
+100; https://github.com/fschutt/azul.git; xml.rs; 12330
+Repository funcs: 12330
+Global count funcs: 731649
+101; https://github.com/mimblewimble/grin.git; zip.rs; 2912
+Repository funcs: 2912
+Global count funcs: 734561
+102; https://github.com/seanmonstar/reqwest.git; server.rs; 1054
+Repository funcs: 1054
+Global count funcs: 735615
+103; https://github.com/serde-rs/serde.git; mod.rs; 2050
+Repository funcs: 2050
+Global count funcs: 737665
+104; https://github.com/paritytech/polkadot.git; lib.rs; 8230
+Repository funcs: 8230
+Global count funcs: 745895
+105; https://github.com/pemistahl/grex.git; property_tests.rs; 511
+Repository funcs: 511
+Global count funcs: 746406
+106; https://github.com/linebender/druid.git; mod.rs; 3245
+Repository funcs: 3245
+Global count funcs: 749651
+107; https://github.com/rustwasm/wasm-bindgen.git; vendor_prefix.rs; 15609
+Repository funcs: 15609
+Global count funcs: 765260
+108; https://github.com/volta-cli/volta.git; temp_project.rs; 1208
+Repository funcs: 1208
+Global count funcs: 766468
+109; https://github.com/tokio-rs/mio.git; mod.rs; 825
+Repository funcs: 825
+Global count funcs: 767293
+110; https://github.com/helix-editor/helix.git; view.rs; 1456
+Repository funcs: 1456
+Global count funcs: 768749
+111; https://github.com/Y2Z/monolith.git; retrieve_asset.rs; 274
+Repository funcs: 274
+Global count funcs: 769023
+112; https://github.com/rust-lang/rustup.git; topical_doc_data.rs; 1443
+Repository funcs: 1443
+Global count funcs: 770466
+113; https://github.com/hyperium/tonic.git; grpc_web.rs; 1315
+Repository funcs: 1315
+Global count funcs: 771781
+114; https://github.com/TheAlgorithms/Rust.git; reverse.rs; 543
+Repository funcs: 543
+Global count funcs: 772324
+115; https://github.com/ajeetdsouza/zoxide.git; main.rs; 103
+Repository funcs: 103
+Global count funcs: 772427
+116; https://github.com/phiresky/ripgrep-all.git; rga.rs; 138
+Repository funcs: 138
+Global count funcs: 772565
+117; https://github.com/graphql-rust/juniper.git; lib.rs; 3760
+Repository funcs: 3760
+Global count funcs: 776325
+118; https://github.com/crossbeam-rs/crossbeam.git; subcrates.rs; 1790
+Repository funcs: 1790
+Global count funcs: 778115
+119; https://github.com/anordal/shellharden.git; moduletest.rs; 113
+Repository funcs: 113
+Global count funcs: 778228
+120; https://github.com/zellij-org/zellij.git; layout_test.rs; 1440
+Repository funcs: 1440
+Global count funcs: 779668
+121; https://github.com/rust-lang/futures-rs.git; spawn.rs; 2201
+Repository funcs: 2201
+Global count funcs: 781869
+122; https://github.com/rust-lang/rustfmt.git; modified.rs; 3997
+Repository funcs: 3997
+Global count funcs: 785866
+123; https://github.com/bytecodealliance/lucet.git; wasm.rs; 1707
+Repository funcs: 1707
+Global count funcs: 787573
+124; https://github.com/PistonDevelopers/piston.git; no_window.rs; 304
+Repository funcs: 304
+Global count funcs: 787877
+125; https://github.com/casey/just.git; working_directory.rs; 610
+Repository funcs: 610
+Global count funcs: 788487
+126; https://github.com/pretzelhammer/rust-blog.git; main.rs; 1
+Repository funcs: 1
+Global count funcs: 788488
+127; https://github.com/mit-pdos/noria.git; mysql_comparison.rs; 1905
+Repository funcs: 1905
+Global count funcs: 790393
+128; https://github.com/EmbarkStudios/rust-gpu.git; storage_buffer-dst.rs; 1246
+Repository funcs: 1246
+Global count funcs: 791639
+129; https://github.com/rustwasm/wasm-pack.git; mod.rs; 343
+Repository funcs: 343
+Global count funcs: 791982
+130; https://github.com/federico-terzi/espanso.git; test_binary.rs; 1786
+Repository funcs: 1786
+Global count funcs: 793768
+131; https://github.com/sharkdp/pastel.git; integration_tests.rs; 306
+Repository funcs: 306
+Global count funcs: 794074
+132; https://github.com/cloudflare/boringtun.git; mod.rs; 412
+Repository funcs: 412
+Global count funcs: 794486
+133; https://github.com/o2sh/onefetch.git; sixel.rs; 128
+Repository funcs: 128
+Global count funcs: 794614
+134; https://github.com/imazen/imageflow.git; version.rs; 1986
+Repository funcs: 1986
+Global count funcs: 796600
+135; https://github.com/nannou-org/nannou.git; main.rs; 3965
+Repository funcs: 3965
+Global count funcs: 800565
+136; https://github.com/ogham/dog.git; txid.rs; 385
+Repository funcs: 385
+Global count funcs: 800950
+137; https://github.com/orhun/git-cliff.git; integration_test.rs; 33
+Repository funcs: 33
+Global count funcs: 800983
+138; https://github.com/http-rs/tide.git; wildcard.rs; 499
+Repository funcs: 499
+Global count funcs: 801482
+139; https://github.com/vi/websocat.git; test.rs; 406
+Repository funcs: 406
+Global count funcs: 801888
+140; https://github.com/rust-lang/rls.git; mod.rs; 1190
+Repository funcs: 1190
+Global count funcs: 803078
+141; https://github.com/redox-os/orbtk.git; visibility.rs; 1367
+Repository funcs: 1367
+Global count funcs: 804445
+142; https://github.com/Qovery/engine.git; utilities.rs; 1939
+Repository funcs: 1939
+Global count funcs: 806384
+143; https://github.com/gleam-lang/gleam.git; lib.rs; 3354
+Repository funcs: 3354
+Global count funcs: 809738
+144; https://github.com/shadowsocks/shadowsocks-rust.git; udp.rs; 1120
+Repository funcs: 1120
+Global count funcs: 810858
+145; https://github.com/tensorflow/rust.git; lib.rs; 15272
+Repository funcs: 15272
+Global count funcs: 826130
+146; https://github.com/autozimu/LanguageClient-neovim.git; main.rs; 316
+Repository funcs: 316
+Global count funcs: 826446
+147; https://github.com/toshi-search/Toshi.git; term.rs; 346
+Repository funcs: 346
+Global count funcs: 826792
+148; https://github.com/chyyuu/os_kernel_lab.git; yield.rs; 492
+Repository funcs: 492
+Global count funcs: 827284
+149; https://github.com/racer-rust/racer.git; bar.rs; 1450
+Repository funcs: 1450
+Global count funcs: 828734
+150; https://github.com/indygreg/PyOxidizer.git; testutil.rs; 3532
+Repository funcs: 3532
+Global count funcs: 832266
+151; https://github.com/dtolnay/cxx.git; build.rs; 1287
+Repository funcs: 1287
+Global count funcs: 833553
+152; https://github.com/MaterializeInc/materialize.git; mod.rs; 6127
+Repository funcs: 6127
+Global count funcs: 839680
+153; https://github.com/bootandy/dust.git; test_flags.rs; 108
+Repository funcs: 108
+Global count funcs: 839788
+154; https://github.com/tock/tock.git; main.rs; 7752
+Repository funcs: 7752
+Global count funcs: 847540
+155; https://github.com/pola-rs/polars.git; utils.rs; 4824
+Repository funcs: 4824
+Global count funcs: 852364
+156; https://github.com/PistonDevelopers/conrod.git; utils.rs; 1691
+Repository funcs: 1691
+Global count funcs: 854055
+157; https://github.com/koute/stdweb.git; lib.rs; 1692
+Repository funcs: 1692
+Global count funcs: 855747
+158; https://github.com/erikgrinaker/toydb.git; schema.rs; 833
+Repository funcs: 833
+Global count funcs: 856580
+159; https://github.com/gfx-rs/wgpu.git; lib.rs; 2705
+Repository funcs: 2705
+Global count funcs: 859285
+160; https://github.com/ggez/ggez.git; skeptic.rs; 947
+Repository funcs: 947
+Global count funcs: 860232
+161; https://github.com/ClementTsang/bottom.git; layout_movement_tests.rs; 455
+Repository funcs: 455
+Global count funcs: 860687
+162; https://github.com/jhspetersson/fselect.git; svg.rs; 369
+Repository funcs: 369
+Global count funcs: 861056
+163; https://github.com/async-rs/async-std.git; verbose_errors.rs; 1334
+Repository funcs: 1334
+Global count funcs: 862390
+164; https://github.com/reacherhq/check-if-email-exists.git; lib.rs; 57
+Repository funcs: 57
+Global count funcs: 862447
+165; https://github.com/cantino/mcfly.git; schema.rs; 136
+Repository funcs: 136
+Global count funcs: 862583
+166; https://github.com/seed-rs/seed.git; json.rs; 1068
+Repository funcs: 1068
+Global count funcs: 863651
+167; https://github.com/rustls/rustls.git; mod.rs; 1682
+Repository funcs: 1682
+Global count funcs: 865333
+168; https://github.com/rusterlium/rustler.git; test_thread.rs; 481
+Repository funcs: 481
+Global count funcs: 865814
+169; https://github.com/ivanceras/svgbob.git; styling.rs; 584
+Repository funcs: 584
+Global count funcs: 866398
+170; https://github.com/jmacdonald/amp.git; test_terminal.rs; 661
+Repository funcs: 661
+Global count funcs: 867059
+171; https://github.com/lotabout/skim.git; selector.rs; 433
+Repository funcs: 433
+Global count funcs: 867492
+172; https://github.com/rg3dengine/rg3d.git; mod.rs; 4360
+Repository funcs: 4360
+Global count funcs: 871852
+173; https://github.com/vulkano-rs/vulkano.git; winit.rs; 2887
+Repository funcs: 2887
+Global count funcs: 874739
+174; https://github.com/EbTech/rust-algorithms.git; codeforces343d.rs; 255
+Repository funcs: 255
+Global count funcs: 874994
+175; https://github.com/redox-os/tfs.git; range.rs; 519
+Repository funcs: 519
+Global count funcs: 875513
+176; https://github.com/nickel-org/nickel.rs.git; mod.rs; 361
+Repository funcs: 361
+Global count funcs: 875874
+177; https://github.com/svenstaro/miniserve.git; mod.rs; 139
+Repository funcs: 139
+Global count funcs: 876013
+178; https://github.com/google/evcxr.git; lib.rs; 476
+Repository funcs: 476
+Global count funcs: 876489
+179; https://github.com/servo/pathfinder.git; lib.rs; 4108
+Repository funcs: 4108
+Global count funcs: 880597
+180; https://github.com/pest-parser/pest.git; reporting.rs; 678
+Repository funcs: 678
+Global count funcs: 881275
+182; https://github.com/nuta/kerla.git; vga.rs; 915
+Repository funcs: 915
+Global count funcs: 882190
+183; https://github.com/weld-project/weld.git; main.rs; 1040
+Repository funcs: 1040
+Global count funcs: 883230
+184; https://github.com/tonarino/innernet.git; lib.rs; 476
+Repository funcs: 476
+Global count funcs: 883706
+185; https://github.com/glium/glium.git; mod.rs; 2130
+Repository funcs: 2130
+Global count funcs: 885836
+186; https://github.com/chmln/sd.git; cli.rs; 30
+Repository funcs: 30
+Global count funcs: 885866
+187; https://github.com/Byron/gitoxide.git; main.rs; 3086
+Repository funcs: 3086
+Global count funcs: 888952
+188; https://github.com/librespot-org/librespot.git; player_event_handler.rs; 513
+Repository funcs: 513
+Global count funcs: 889465
+189; https://github.com/curlpipe/ox.git; demo.rs; 140
+Repository funcs: 140
+Global count funcs: 889605
+190; https://github.com/johnthagen/min-sized-rust.git; main.rs; 6
+Repository funcs: 6
+Global count funcs: 889611
+191; https://github.com/tokio-rs/axum.git; main.rs; 882
+Repository funcs: 882
+Global count funcs: 890493
+192; https://github.com/watchexec/watchexec.git; filter_tagged_paths.rs; 263
+Repository funcs: 263
+Global count funcs: 890756
+193; https://github.com/cloudflare/wrangler.git; wrangler_toml.rs; 677
+Repository funcs: 677
+Global count funcs: 891433
+194; https://github.com/datafuselabs/databend.git; user_stage_test.rs; 6446
+Repository funcs: 6446
+Global count funcs: 897879
+195; https://github.com/wez/wezterm.git; xsettings.rs; 4902
+Repository funcs: 4902
+Global count funcs: 902781
+196; https://github.com/gyscos/cursive.git; tracked_view.rs; 1816
+Repository funcs: 1816
+Global count funcs: 904597
+197; https://github.com/artichoke/artichoke.git; artichoke.rs; 4041
+Repository funcs: 4041
+Global count funcs: 908638
+198; https://github.com/blockstack/stacks-blockchain.git; neon_integrations.rs; 6976
+Repository funcs: 6976
+Global count funcs: 915614
+199; https://github.com/serde-rs/json.git; unexpected_comma.rs; 1263
+Repository funcs: 1263
+Global count funcs: 916877
+200; https://github.com/containers/youki.git; state.rs; 1376
+Repository funcs: 1376
+Global count funcs: 918253
+201; https://github.com/image-rs/image.git; truncate_images.rs; 1535
+Repository funcs: 1535
+Global count funcs: 919788
+202; https://github.com/sixtyfpsui/sixtyfps.git; nodepackage.rs; 2845
+Repository funcs: 2845
+Global count funcs: 922633
+203; https://github.com/hrkfdn/ncspot.git; tabview.rs; 513
+Repository funcs: 513
+Global count funcs: 923146
+204; https://github.com/mozilla/sccache.git; lib.rs; 1242
+Repository funcs: 1242
+Global count funcs: 924388
+205; https://github.com/servo/webrender.git; lib.rs; 4175
+Repository funcs: 4175
+Global count funcs: 928563
+206; https://github.com/boa-dev/boa.git; lib.rs; 3391
+Repository funcs: 3391
+Global count funcs: 931954
+207; https://github.com/nrc/r4cppp.git; ref_graph_generic_mod.rs; 19
+Repository funcs: 19
+Global count funcs: 931973
+208; https://github.com/MaxBittker/sandspiel.git; web.rs; 54
+Repository funcs: 54
+Global count funcs: 932027
+209; https://github.com/rusoto/rusoto.git; lib.rs; 45700
+Repository funcs: 45700
+Global count funcs: 977727
+210; https://github.com/gluon-lang/gluon.git; mutex.rs; 4837
+Repository funcs: 4837
+Global count funcs: 982564
+211; https://github.com/microsoft/onefuzz.git; main.rs; 1602
+Repository funcs: 1602
+Global count funcs: 984166
+213; https://github.com/Nukesor/pueue.git; worker_environment_variables.rs; 261
+Repository funcs: 261
+Global count funcs: 984427
+214; https://github.com/nerdypepper/dijo.git; traits.rs; 180
+Repository funcs: 180
+Global count funcs: 984607
+215; https://github.com/ImageOptim/gifski.git; tests.rs; 123
+Repository funcs: 123
+Global count funcs: 984730
+216; https://github.com/dalance/procs.git; windows.rs; 370
+Repository funcs: 370
+Global count funcs: 985100
+217; https://github.com/dimforge/nalgebra.git; mod.rs; 4391
+Repository funcs: 4391
+Global count funcs: 989491
+218; https://github.com/rust-embedded/cross.git; rustup.rs; 135
+Repository funcs: 135
+Global count funcs: 989626
+219; https://github.com/dtolnay/anyhow.git; wrong-interpolation.rs; 301
+Repository funcs: 301
+Global count funcs: 989927
+220; https://github.com/sfackler/rust-postgres.git; uuid_08.rs; 1196
+Repository funcs: 1196
+Global count funcs: 991123
+221; https://github.com/TeXitoi/structopt.git; tuple_struct.rs; 318
+Repository funcs: 318
+Global count funcs: 991441
+222; https://github.com/habitat-sh/habitat.git; main.rs; 4074
+Repository funcs: 4074
+Global count funcs: 995515
+223; https://github.com/bastion-rs/bastion.git; stack.rs; 1180
+Repository funcs: 1180
+Global count funcs: 996695
+224; https://github.com/krustlet/krustlet.git; main.rs; 1307
+Repository funcs: 1307
+Global count funcs: 998002
+225; https://github.com/TimelyDataflow/timely-dataflow.git; skeptic.rs; 889
+Repository funcs: 889
+Global count funcs: 998891
+226; https://github.com/WebAssembly/WASI.git; main.rs; 312
+Repository funcs: 312
+Global count funcs: 999203
+227; https://github.com/ballista-compute/ballista.git; standalone.rs; 446
+Repository funcs: 446
+Global count funcs: 999649
+228; https://github.com/smoltcp-rs/smoltcp.git; packet2pcap.rs; 1875
+Repository funcs: 1875
+Global count funcs: 1001524
+229; https://github.com/harababurel/gcsf.git; mod.rs; 97
+Repository funcs: 97
+Global count funcs: 1001621
+230; https://github.com/mitsuhiko/indicatif.git; multi-autodrop.rs; 262
+Repository funcs: 262
+Global count funcs: 1001883
+231; https://github.com/nebulet/nebulet.git; tar.rs; 850
+Repository funcs: 850
+Global count funcs: 1002733
+232; https://github.com/ducaale/xh.git; server.rs; 350
+Repository funcs: 350
+Global count funcs: 1003083
+233; https://github.com/ralfbiedert/cheats.rs.git; linguist.rs; 0
+Repository funcs: 0
+Global count funcs: 1003083
+234; https://github.com/rbspy/rbspy.git; main.rs; 12454
+Repository funcs: 12454
+Global count funcs: 1015537
+235; https://github.com/Kintaro/wtftw.git; xlib_window_system.rs; 274
+Repository funcs: 274
+Global count funcs: 1015811
+236; https://github.com/mitsuhiko/redis-rs.git; mod.rs; 912
+Repository funcs: 912
+Global count funcs: 1016723
+237; https://github.com/rcoh/angle-grinder.git; integration.rs; 393
+Repository funcs: 393
+Global count funcs: 1017116
+238; https://github.com/sekey/sekey.git; sekey.rs; 36
+Repository funcs: 36
+Global count funcs: 1017152
+239; https://github.com/smol-rs/smol.git; spawn.rs; 75
+Repository funcs: 75
+Global count funcs: 1017227
+240; https://github.com/Findomain/Findomain.git; utils.rs; 89
+Repository funcs: 89
+Global count funcs: 1017316
+241; https://github.com/flamegraph-rs/flamegraph.git; flamegraph.rs; 15
+Repository funcs: 15
+Global count funcs: 1017331
+242; https://github.com/rcore-os/rCore.git; mod.rs; 1686
+Repository funcs: 1686
+Global count funcs: 1019017
+243; https://github.com/rust-windowing/winit.git; sync_object.rs; 1895
+Repository funcs: 1895
+Global count funcs: 1020912
+244; https://github.com/hora-search/hora.git; ssg_params.rs; 291
+Repository funcs: 291
+Global count funcs: 1021203
+245; https://github.com/bheisler/criterion.rs.git; criterion_tests.rs; 783
+Repository funcs: 783
+Global count funcs: 1021986
+246; https://github.com/google/OpenSK.git; main.rs; 1323
+Repository funcs: 1323
+Global count funcs: 1023309
+247; https://github.com/flaneur2020/pua-lang.git; main.rs; 201
+Repository funcs: 201
+Global count funcs: 1023510
+248; https://github.com/immunant/c2rust.git; test_unions.rs; 4451
+Repository funcs: 4451
+Global count funcs: 1027961
+249; https://github.com/rust-lang/regex.git; word_boundary_unicode.rs; 1718
+Repository funcs: 1718
+Global count funcs: 1029679
